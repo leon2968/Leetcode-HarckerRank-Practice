@@ -8,3 +8,7 @@ To track personal advancement on problem solving in CS
 08/23/2022 https://leetcode.com/problems/search-in-rotated-sorted-array/ (Solved using tweaked binary search)
 
 08/23/2022 https://leetcode.com/problems/as-far-from-land-as-possible/ (Searched for hint, then implemented BFS)
+
+08/24/2022 https://leetcode.com/problems/minimum-size-subarray-sum/ (Solved using variable sliding window technique)
+
+08/24/2022 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ (Tried with a mathematical appraoch, turned out it is Greedy)
