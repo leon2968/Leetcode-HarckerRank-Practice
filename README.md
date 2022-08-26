@@ -12,3 +12,7 @@ To track personal advancement on problem solving in CS
 08/24/2022 https://leetcode.com/problems/minimum-size-subarray-sum/ (Solved using variable sliding window technique)
 
 08/24/2022 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ (Tried with a mathematical appraoch, turned out it is Greedy)
+
+08/25/2022 https://leetcode.com/problems/maximum-swap/ (Thought of using List<Map.Entry<Integer,Integer>> but searched for easier int[] dynamic programming hint) 
+
+08/25/2022 https://leetcode.com/problems/longest-palindromic-substring/ (Need to review it, can be solved using both Dynamic programming and two pointers) 
