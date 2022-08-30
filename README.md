@@ -16,3 +16,7 @@ To track personal advancement on problem solving in CS
 08/25/2022 https://leetcode.com/problems/maximum-swap/ (Thought of using List<Map.Entry<Integer,Integer>> but searched for easier int[] dynamic programming hint) 
 
 08/25/2022 https://leetcode.com/problems/longest-palindromic-substring/ (Need to review it, can be solved using both Dynamic programming and two pointers) 
+
+08/29/2022 https://leetcode.com/problems/find-all-duplicates-in-an-array (Solved with a hint, no particular algo or ds)
+
+08/29/2022 https://leetcode.com/problems/rotate-image/ (Solved with array manipulation, instead using one for loop for everything, easier to break into smaller loops)
