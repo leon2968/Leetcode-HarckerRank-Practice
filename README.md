@@ -20,3 +20,7 @@ To track personal advancement on problem solving in CS
 08/29/2022 https://leetcode.com/problems/find-all-duplicates-in-an-array (Solved with a hint, no particular algo or ds)
 
 08/29/2022 https://leetcode.com/problems/rotate-image/ (Solved with array manipulation, instead using one for loop for everything, easier to break into smaller loops)
+
+08/30/2022 https://leetcode.com/problems/word-search (Solved with DFS, trick is to unvisit necessart cells once a new direction search starts)
+
+08/30/2022 https://leetcode.com/problems/longest-consecutive-sequence/ (Solved by using hashSet since it has O(1) search time complexity)
