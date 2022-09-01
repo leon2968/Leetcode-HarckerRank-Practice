@@ -24,3 +24,5 @@ To track personal advancement on problem solving in CS
 08/30/2022 https://leetcode.com/problems/word-search (Solved with DFS, trick is to unvisit necessart cells once a new direction search starts)
 
 08/30/2022 https://leetcode.com/problems/longest-consecutive-sequence/ (Solved by using hashSet since it has O(1) search time complexity)
+
+08/31/2022 https://leetcode.com/problems/subsets/ (Solved with a recursion method, similar to backtracking? There are multiple solutions, need to review others)
