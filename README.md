@@ -26,3 +26,7 @@ To track personal advancement on problem solving in CS
 08/30/2022 https://leetcode.com/problems/longest-consecutive-sequence/ (Solved by using hashSet since it has O(1) search time complexity)
 
 08/31/2022 https://leetcode.com/problems/subsets/ (Solved with a recursion method, similar to backtracking? There are multiple solutions, need to review others)
+
+09/01/2022 https://leetcode.com/problems/invert-binary-tree/ (Solved with BFS using queue)
+
+09/01/2022 https://leetcode.com/problems/populating-next-right-pointers-in-each-node (Solved with BFS first, but it wants O(1) space so changed to node manipulation)
