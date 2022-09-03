@@ -30,3 +30,7 @@ To track personal advancement on problem solving in CS
 09/01/2022 https://leetcode.com/problems/invert-binary-tree/ (Solved with BFS using queue)
 
 09/01/2022 https://leetcode.com/problems/populating-next-right-pointers-in-each-node (Solved with BFS first, but it wants O(1) space so changed to node manipulation)
+
+09/02/2022 https://leetcode.com/problems/container-with-most-water (Solved with two pointers algorithm)
+
+09/02/2022 https://leetcode.com/problems/search-insert-position (Solved with binary search)
