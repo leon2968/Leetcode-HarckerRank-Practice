@@ -34,3 +34,7 @@ To track personal advancement on problem solving in CS
 09/02/2022 https://leetcode.com/problems/container-with-most-water (Solved with two pointers algorithm)
 
 09/02/2022 https://leetcode.com/problems/search-insert-position (Solved with binary search)
+
+09/04/2022 https://leetcode.com/problems/game-of-life (Solved with array manipulation)
+
+09/04/2022 https://leetcode.com/problems/add-two-numbers/ (Solved with elementary math)
