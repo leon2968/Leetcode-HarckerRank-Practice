@@ -33,4 +33,9 @@ To track personal advancement on problem solving in CS
 09/05/2022 https://leetcode.com/problems/kth-largest-element-in-an-array (Solved with hint quickselect/quicksort, need to revisit)
 
 09/06/2022 https://leetcode.com/problems/top-k-frequent-elements/ (Solved with HashMap + EntrySet compareByValue O(NlogN), later changed to bucketsort for better O(N))<br />
-09/06/2022 https://leetcode.com/problems/3sum (Solve with HashMap, later changed to two pointer for fast performanance, trick is to sort first since NlogN < N^2 anway)
+09/06/2022 https://leetcode.com/problems/3sum (Solved with HashMap, later changed to two pointer for fast performanance, trick is to sort first since NlogN < N^2 anway)
+
+09/07/2022 https://leetcode.com/problems/permutations/ (Solved with DP, to save space, remove recently added elements) <br />
+09/07/2022 https://leetcode.com/problems/binary-tree-inorder-traversal/ (Solved with DP)
+
+09/09/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv (Solved with DP, need to revisit and check statem machine approach)
