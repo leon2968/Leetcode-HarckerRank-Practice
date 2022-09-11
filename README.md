@@ -40,3 +40,5 @@ To track personal advancement on problem solving in CS
 
 09/09/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv (Solved with DP, need to revisit and check statem machine approach) <br />
 09/09/2022 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted (Solved with two pointers)
+
+09/10/2022 https://leetcode.com/problems/zigzag-conversion/ (Solved with pure mathematical index manipulation, can use StringBuild[] to simplify)
