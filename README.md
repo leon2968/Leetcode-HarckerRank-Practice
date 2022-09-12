@@ -44,5 +44,5 @@ To track personal advancement on problem solving in CS
 09/10/2022 https://leetcode.com/problems/zigzag-conversion/ (Solved with pure mathematical index manipulation, can use StringBuild[] to simplify)
 
 09/11/2022 https://leetcode.com/problems/3sum-closest (Solved with two pointers) <br/>
-09/11/2022 https://leetcode.com/problems/letter-combinations-of-a-phone-number/ (Solved with dp/recursion)
+09/11/2022 https://leetcode.com/problems/letter-combinations-of-a-phone-number/ (Solved with backtracking/recursion)
 
