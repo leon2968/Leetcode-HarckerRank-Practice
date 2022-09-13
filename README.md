@@ -46,3 +46,6 @@ To track personal advancement on problem solving in CS
 09/11/2022 https://leetcode.com/problems/3sum-closest (Solved with two pointers) <br/>
 09/11/2022 https://leetcode.com/problems/letter-combinations-of-a-phone-number/ (Solved with backtracking/recursion)
 
+09/12/2022 https://leetcode.com/problems/unique-paths/ (Solved with bottom-up DP)<br />
+09/12/2022 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/ (Looked for a hint, then solved with recursion)
+
