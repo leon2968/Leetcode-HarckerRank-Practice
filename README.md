@@ -49,3 +49,6 @@ To track personal advancement on problem solving in CS
 09/12/2022 https://leetcode.com/problems/unique-paths/ (Solved with bottom-up DP)<br />
 09/12/2022 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/ (Looked for a hint, then solved with recursion)
 
+09/13/2022 https://leetcode.com/problems/contains-duplicate/ (Solved with a hashmap)
+09/13/2022 https://leetcode.com/problems/min-stack/ (Solved with stacks first, then using nodes for a better approach)
+
