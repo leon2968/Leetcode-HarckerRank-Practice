@@ -51,4 +51,5 @@ To track personal advancement on problem solving in CS
 
 09/13/2022 https://leetcode.com/problems/contains-duplicate/ (Solved with a hashmap)<br />
 09/13/2022 https://leetcode.com/problems/min-stack/ (Solved with stacks first, then using nodes for a better approach)
+09/13/2022 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ (Solved with DFS + recursion)
 
