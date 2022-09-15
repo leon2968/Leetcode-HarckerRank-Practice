@@ -53,3 +53,6 @@ To track personal advancement on problem solving in CS
 09/13/2022 https://leetcode.com/problems/min-stack/ (Solved with stacks first, then using nodes for a better approach)
 09/13/2022 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ (Solved with DFS + recursion)
 
+09/14/2022 https://leetcode.com/problems/odd-even-linked-list (Solved with ListNode pointer manipulation)<br />
+09/14/2022 https://leetcode.com/problems/shuffle-an-array (Solved with brute force approach, then later solved with Fisher-Yates Algorithm)
+
