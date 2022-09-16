@@ -57,3 +57,7 @@ To track personal advancement on problem solving in CS
 09/14/2022 https://leetcode.com/problems/shuffle-an-array (Solved with brute force approach, then later solved with Fisher-Yates Algorithm)
 09/14/2022 https://leetcode.com/problems/find-original-array-from-doubled-array/ (Solved with hashmap approach)
 
+09/15/2022 https://leetcode.com/problems/rotate-array (Solved with cyclic replacements, easier solution with 3-reverse)<br />
+09/15/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ (Solved with dynamic programming)<br />
+09/15/2022 https://leetcode.com/problems/reverse-string/(Solved with two pointers swap)<br />
+09/15/2022 https://leetcode.com/problems/reverse-integer(Solved with try-catch string manipulation, then changed to digits pop/push approach with overflow check)
