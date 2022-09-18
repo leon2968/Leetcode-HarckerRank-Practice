@@ -61,3 +61,7 @@ To track personal advancement on problem solving in CS
 09/15/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ (Solved with dynamic programming)<br />
 09/15/2022 https://leetcode.com/problems/reverse-string/(Solved with two pointers swap)<br />
 09/15/2022 https://leetcode.com/problems/reverse-integer(Solved with try-catch string manipulation, then changed to digits pop/push approach with overflow check)
+
+09/16/2022 https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/ (Solved with dp)
+
+09/17/2022 https://leetcode.com/problems/trapping-rain-water/ (Solved with brute/pointers approach first, then tried two pointers / dp / stack with hints) 
