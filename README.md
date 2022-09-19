@@ -65,3 +65,6 @@ To track personal advancement on problem solving in CS
 09/16/2022 https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/ (Solved with dp)
 
 09/17/2022 https://leetcode.com/problems/trapping-rain-water/ (Solved with brute/pointers approach first, then tried two pointers / dp / stack with hints) 
+
+09/18/2022 https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Solved with recursive DFS, iterative DFS, and BFS)<br />
+09/18/2022 https://leetcode.com/problems/climbing-stairs/ (Solved with dp top-down mem / bottom-up, similar to Fibonacci numbers)
