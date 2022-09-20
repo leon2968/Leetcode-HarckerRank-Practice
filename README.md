@@ -68,3 +68,7 @@ To track personal advancement on problem solving in CS
 
 09/18/2022 https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Solved with recursive DFS, iterative DFS, and BFS)<br />
 09/18/2022 https://leetcode.com/problems/climbing-stairs/ (Solved with dp top-down mem / bottom-up, similar to Fibonacci numbers)
+
+09/19/2022 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ (Solved with 2 stack BFS approach) <br />
+09/19/2022 https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Solved with sliding window, use either HashTable or int[] charSet)<br />
+09/19/2022 https://leetcode.com/problems/maximum-length-of-repeated-subarray/ (Looked for a hint, then solved with DP, then with two pointer/sliding window)
