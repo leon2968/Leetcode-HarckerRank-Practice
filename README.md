@@ -72,3 +72,8 @@ To track personal advancement on problem solving in CS
 09/19/2022 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ (Solved with 2 stack BFS approach) <br />
 09/19/2022 https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Solved with sliding window, use either HashTable or int[] charSet)<br />
 09/19/2022 https://leetcode.com/problems/maximum-length-of-repeated-subarray/ (Looked for a hint, then solved with DP, then with two pointer/sliding window)
+
+09/20/2022 https://leetcode.com/problems/palindrome-number/ (Solved with String manipulation, then solved with arithmetic approach) <br />
+09/20/2022 https://leetcode.com/problems/sort-colors/ (Solved with counting sort, then later solved with quick sort) <br />
+09/20/2022 https://leetcode.com/problems/symmetric-tree/ (Solved with BFS approach with HashMap, then later looked for an easier solution using stack) <br />
+09/20/2022 https://leetcode.com/problems/sum-of-even-numbers-after-queries/ (Solved with maintain array sum)
