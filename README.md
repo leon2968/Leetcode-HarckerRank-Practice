@@ -77,3 +77,9 @@ To track personal advancement on problem solving in CS
 09/20/2022 https://leetcode.com/problems/sort-colors/ (Solved with counting sort, then later solved with quick sort) <br />
 09/20/2022 https://leetcode.com/problems/symmetric-tree/ (Solved with BFS approach with HashMap, then later looked for an easier solution using stack) <br />
 09/20/2022 https://leetcode.com/problems/sum-of-even-numbers-after-queries/ (Solved with maintain array sum)
+
+09/21/2022 https://leetcode.com/problems/two-sum/ (Solved with one loop using HashMap) <br />
+09/21/2022 https://leetcode.com/problems/longest-common-prefix (Solved with sorting array first then compare first and last element) <br />
+09/21/2022 https://leetcode.com/problems/delete-node-in-a-linked-list/ (Solved with replacing node properties by next node properties) <br />
+09/21/2022 https://leetcode.com/problems/remove-nth-node-from-end-of-list/ (Solved with two-pass with a counter, then one-pass with slow and fast pointers) <br />
+09/21/2022 https://leetcode.com/problems/reverse-words-in-a-string-iii/ (Solved with String.split() then reconstruct it with StringBuilder)
