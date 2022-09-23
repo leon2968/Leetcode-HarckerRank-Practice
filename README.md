@@ -85,5 +85,6 @@ To track personal advancement on problem solving in CS
 09/21/2022 https://leetcode.com/problems/reverse-words-in-a-string-iii/ (Solved with String.split() then reconstruct it with StringBuilder)
 
 09/22/2022 https://leetcode.com/problems/coin-change/ (Looked for a hint, then solved with DP and BFS approach) <br />
-09/22/2022 https://leetcode.com/problems/single-number/ (Looked for a hint, then solved with bit operation ^)
+09/22/2022 https://leetcode.com/problems/single-number/ (Looked for a hint, then solved with bit operation ^) <br />
+09/22/2022 https://leetcode.com/problems/binary-tree-preorder-traversal/ (Solved with iterative approach using Stack)
  
