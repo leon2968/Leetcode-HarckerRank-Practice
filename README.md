@@ -83,3 +83,7 @@ To track personal advancement on problem solving in CS
 09/21/2022 https://leetcode.com/problems/delete-node-in-a-linked-list/ (Solved with replacing node properties by next node properties) <br />
 09/21/2022 https://leetcode.com/problems/remove-nth-node-from-end-of-list/ (Solved with two-pass with a counter, then one-pass with slow and fast pointers) <br />
 09/21/2022 https://leetcode.com/problems/reverse-words-in-a-string-iii/ (Solved with String.split() then reconstruct it with StringBuilder)
+
+09/22/2022 https://leetcode.com/problems/coin-change/ (Looked for a hint, then solved with DP and BFS approach) <br />
+09/22/2022 https://leetcode.com/problems/single-number/ (Looked for a hint, then solved with bit operation ^)
+ 
