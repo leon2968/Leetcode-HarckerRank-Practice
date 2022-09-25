@@ -88,3 +88,8 @@ To track personal advancement on problem solving in CS
 09/22/2022 https://leetcode.com/problems/single-number/ (Looked for a hint, then solved with bit operation ^) <br />
 09/22/2022 https://leetcode.com/problems/binary-tree-preorder-traversal/ (Solved with iterative approach using Stack)
  
+09/23/2022 https://leetcode.com/problems/first-bad-version/ (Solved with binary search, can check various binary search templates) <br />
+09/23/2022 https://leetcode.com/problems/power-of-three/ (Solved with recursion, then looked for mathematical approach)
+
+09/24/2022 https://leetcode.com/problems/spiral-matrix/ (Solved with 2D matrix index operations) <br />
+09/24/2022 https://leetcode.com/problems/where-will-the-ball-fall/ (Solved with DFS approach) 
