@@ -93,3 +93,7 @@ To track personal advancement on problem solving in CS
 
 09/24/2022 https://leetcode.com/problems/spiral-matrix/ (Solved with 2D matrix index operations) <br />
 09/24/2022 https://leetcode.com/problems/where-will-the-ball-fall/ (Solved with DFS approach) 
+
+09/25/2022 https://leetcode.com/problems/flood-fill (Solved with DFS) <br />
+09/25/2022 https://leetcode.com/problems/multiply-strings/ (Loofed for a hint, then solved with mathematical approach using StringBuilder) <br />
+09/25/2022 https://leetcode.com/problems/n-th-tribonacci-number (Solved with DP then just pointers)
