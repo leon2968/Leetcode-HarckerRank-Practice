@@ -97,3 +97,7 @@ To track personal advancement on problem solving in CS
 09/25/2022 https://leetcode.com/problems/flood-fill (Solved with DFS) <br />
 09/25/2022 https://leetcode.com/problems/multiply-strings/ (Loofed for a hint, then solved with mathematical approach using StringBuilder) <br />
 09/25/2022 https://leetcode.com/problems/n-th-tribonacci-number (Solved with DP then just pointers)
+
+09/26/2022 https://leetcode.com/problems/validate-binary-search-tree/ (Looked for a hint, then solved with recursive approach, later used inorder traverse approach) <br />
+09/26/2022 https://leetcode.com/problems/validate-binary-search-tree/ (Solved with backtracking technique, note to create new object when store to the result) <br />
+09/26/2022 https://leetcode.com/problems/palindrome-linked-list/ (Solved with ArrayList using two pointers in O(n) space, then solved with reversing linked list in place in O(1) space)
