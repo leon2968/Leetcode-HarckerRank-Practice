@@ -101,3 +101,6 @@ To track personal advancement on problem solving in CS
 09/26/2022 https://leetcode.com/problems/validate-binary-search-tree/ (Looked for a hint, then solved with recursive approach, later used inorder traverse approach) <br />
 09/26/2022 https://leetcode.com/problems/validate-binary-search-tree/ (Solved with backtracking technique, note to create new object when store to the result) <br />
 09/26/2022 https://leetcode.com/problems/palindrome-linked-list/ (Solved with ArrayList using two pointers in O(n) space, then solved with reversing linked list in place in O(1) space)
+
+09/27/2022 https://leetcode.com/problems/set-matrix-zeroes/ (Solved with a hint, using first row and column as flags, note to refresh flags in last step) <br />
+09/27/2022 https://leetcode.com/problems/house-robber/ (Solved with DP top-down mem / bottom-up, can be solved with pointers)
