@@ -104,3 +104,6 @@ To track personal advancement on problem solving in CS
 
 09/27/2022 https://leetcode.com/problems/set-matrix-zeroes/ (Solved with a hint, using first row and column as flags, note to refresh flags in last step) <br />
 09/27/2022 https://leetcode.com/problems/house-robber/ (Solved with DP top-down mem / bottom-up, can be solved with pointers)
+
+09/28/2022 https://leetcode.com/problems/group-anagrams/ (Solved with HashMap using character set as the key to identify anagram group) <br />
+09/28/2022 https://leetcode.com/problems/house-robber-ii/ (Solved with a hint, similar to house-robber but we divide this into two sub-problems with different start)
