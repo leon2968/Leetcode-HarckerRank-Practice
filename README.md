@@ -107,3 +107,8 @@ To track personal advancement on problem solving in CS
 
 09/28/2022 https://leetcode.com/problems/group-anagrams/ (Solved with HashMap using character set as the key to identify anagram group) <br />
 09/28/2022 https://leetcode.com/problems/house-robber-ii/ (Solved with a hint, similar to house-robber but we divide this into two sub-problems with different start)
+
+09/30/2022 https://leetcode.com/problems/balanced-binary-tree/ (Lookerd for a hint, then solved with DFS recursive approch) <br />
+09/30/2022 https://leetcode.com/problems/maximum-subarray/ (Solved with DP, divide and conquer is less efficient) <br />
+09/30/2022 https://leetcode.com/problems/shortest-path-in-binary-matrix/ (Solved with BFS) <br />
+09/30/2022 https://leetcode.com/problems/jump-game-ii/ (Solved with BFS/Greedy)
