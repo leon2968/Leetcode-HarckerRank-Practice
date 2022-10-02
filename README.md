@@ -112,3 +112,7 @@ To track personal advancement on problem solving in CS
 09/30/2022 https://leetcode.com/problems/maximum-subarray/ (Solved with DP, divide and conquer is less efficient) <br />
 09/30/2022 https://leetcode.com/problems/shortest-path-in-binary-matrix/ (Solved with BFS) <br />
 09/30/2022 https://leetcode.com/problems/jump-game-ii/ (Solved with BFS/Greedy)
+
+10/01/2022 https://leetcode.com/problems/decode-ways/ (Solved with brute force recursion, later realized it can be optimized via DP) <br />
+10/01/2022 https://leetcode.com/problems/fibonacci-number/ (Solved with dynamic approach with pointers only) <br />
+10/01/2022 https://leetcode.com/problems/pacific-atlantic-water-flow/ (Looked for a hint, then solved with DFS approach, trick is use two visited because of two condition checks)
