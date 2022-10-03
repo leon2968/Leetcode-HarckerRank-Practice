@@ -116,3 +116,6 @@ To track personal advancement on problem solving in CS
 10/01/2022 https://leetcode.com/problems/decode-ways/ (Solved with brute force recursion, later realized it can be optimized via DP) <br />
 10/01/2022 https://leetcode.com/problems/fibonacci-number/ (Solved with dynamic approach with pointers only) <br />
 10/01/2022 https://leetcode.com/problems/pacific-atlantic-water-flow/ (Looked for a hint, then solved with DFS approach, trick is use two visited because of two condition checks)
+
+10/02/2022 https://leetcode.com/problems/shortest-bridge/ (Solved with DFS+BFS, first mark island 1 via DFS, then expand it via BFS) <br />
+10/02/2022 https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ (Solved with a single pass by using a pointer to maintain max value)
