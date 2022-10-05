@@ -119,3 +119,8 @@ To track personal advancement on problem solving in CS
 
 10/02/2022 https://leetcode.com/problems/shortest-bridge/ (Solved with DFS+BFS, first mark island 1 via DFS, then expand it via BFS) <br />
 10/02/2022 https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ (Solved with a single pass by using a pointer to maintain max value)
+
+10/04/2022 https://leetcode.com/problems/path-sum/ (Solved with DFS) <br />
+10/04/2022 https://leetcode.com/problems/number-of-provinces/ (Solved with DFS, vertices are connected by matrix[i][j] instead of neighbor cells) <br />
+10/04/2022 https://leetcode.com/problems/add-one-row-to-tree/ (Solved with BFS appraoch) <br />
+***10/04/2022 https://leetcode.com/problems/word-break/ (Solved with brute force approach/backtracking, then reviewed solutions in DP and  BFS, need to take another look)
