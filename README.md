@@ -127,5 +127,6 @@ To track personal advancement on problem solving in CS
 
 10/6/2022 https://leetcode.com/problems/time-based-key-value-store/ (Solved with HashMap<String, TreeMap<Integer, String>>, used floorKey() to get closet smaller number, a design question) <br/>
 10/6/2022 https://leetcode.com/problems/product-of-array-except-self/ (Solved with division approach with special treatment for 0s, then checked hint and solved with prefix/suffix approach) <br/>
-***10/6/2022 https://leetcode.com/problems/ugly-number-ii/ (Looked for a hint, then solved with dynamic programming, also can be solved with TreeSet with worse Big-O) <br/ >
-10/6/2022 https://leetcode.com/problems/ugly-number/ (Solved with recursion / while loop)
+10/6/2022 https://leetcode.com/problems/ugly-number/ (Solved with recursion / while loop) <br />
+***10/6/2022 https://leetcode.com/problems/ugly-number-ii/ (Looked for a hint, then solved with dynamic programming, also can be solved with TreeSet with worse Big-O) 
+
