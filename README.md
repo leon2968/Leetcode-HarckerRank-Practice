@@ -124,3 +124,8 @@ To track personal advancement on problem solving in CS
 10/04/2022 https://leetcode.com/problems/number-of-provinces/ (Solved with DFS, vertices are connected by matrix[i][j] instead of neighbor cells) <br />
 10/04/2022 https://leetcode.com/problems/add-one-row-to-tree/ (Solved with BFS appraoch) <br />
 ***10/04/2022 https://leetcode.com/problems/word-break/ (Solved with brute force approach/backtracking, then reviewed solutions in DP and  BFS, need to take another look)
+
+10/6/2022 https://leetcode.com/problems/time-based-key-value-store/ (Solved with HashMap<String, TreeMap<Integer, String>>, used floorKey() to get closet smaller number, a design question) <br/>
+10/6/2022 https://leetcode.com/problems/product-of-array-except-self/ (Solved with division approach with special treatment for 0s, then checked hint and solved with prefix/suffix approach) <br/>
+***10/6/2022 https://leetcode.com/problems/ugly-number-ii/ (Looked for a hint, then solved with dynamic programming, also can be solved with TreeSet with worse Big-O) <br/>
+10/6/2022 https://leetcode.com/problems/ugly-number/ (Solved with recursion and while loop)
