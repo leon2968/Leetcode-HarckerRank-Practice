@@ -130,4 +130,6 @@ To track personal advancement on problem solving in CS
 10/6/2022 https://leetcode.com/problems/ugly-number/ (Solved with recursion / while loop) <br />
 ***10/6/2022 https://leetcode.com/problems/ugly-number-ii/ (Looked for a hint, then solved with dynamic programming, also can be solved with TreeSet with worse Big-O) 
 
-10/8/2022 https://leetcode.com/problems/jump-game-iii/ (Solved with DFS/BFS) <br />
+10/8/2022 https://leetcode.com/problems/jump-game-iii/ (Solved with DFS/BFS) 
+
+10/9/2022 https://leetcode.com/problems/01-matrix/ (Solved with BFS)
