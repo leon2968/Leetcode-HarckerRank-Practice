@@ -132,4 +132,12 @@ To track personal advancement on problem solving in CS
 
 10/8/2022 https://leetcode.com/problems/jump-game-iii/ (Solved with DFS/BFS) 
 
-10/9/2022 https://leetcode.com/problems/01-matrix/ (Solved with BFS)
+10/9/2022 https://leetcode.com/problems/01-matrix/ (Solved with BFS)<br />
+10/9/2022 https://leetcode.com/problems/open-the-lock/ (Solved with BFS, then used int[] and convert String into numbers for faster runtime) <br/>
+10/9/2022 https://leetcode.com/problems/pascals-triangle/ (Sovled with bottom-up DP) <br/>
+10/9/2022 https://leetcode.com/problems/pascals-triangle-ii/ (Solved with bottom-up DP using pointers) <br/>
+10/9/2022 https://leetcode.com/problems/triangle/ (Solved with bottom-up DP) <br/>
+***10/9/2022 https://leetcode.com/problems/find-k-closest-elements/ (Looked for a hint, solved with two pointers approach, binary search is also available but harder to explain/understand)
+
+10/10/2022 https://leetcode.com/problems/k-closest-points-to-origin/ (Solved with a priorityQueue using custom comparator) <br />
+10/10/2022 https://leetcode.com/problems/insert-interval/ (Looked for a hint, originally tried binary search but became too complicated, instead using simple loop for array)
