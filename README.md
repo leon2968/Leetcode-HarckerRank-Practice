@@ -141,3 +141,6 @@ To track personal advancement on problem solving in CS
 
 10/10/2022 https://leetcode.com/problems/k-closest-points-to-origin/ (Solved with a priorityQueue using custom comparator) <br />
 10/10/2022 https://leetcode.com/problems/insert-interval/ (Looked for a hint, originally tried binary search but became too complicated, instead using simple loop for array)
+
+10/11/2022 https://leetcode.com/problems/minimum-window-substring/ (Solved with variant length sliding window technique using HashMap, changed to int[] later) <br />
+10/11/2022 https://leetcode.com/problems/repeated-dna-sequences/ (Solved with fixed length sliding window technique using HashSet)
