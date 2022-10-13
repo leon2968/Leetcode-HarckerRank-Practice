@@ -144,3 +144,6 @@ To track personal advancement on problem solving in CS
 
 10/11/2022 https://leetcode.com/problems/minimum-window-substring/ (Solved with variant length sliding window technique using HashMap, changed to int[] later) <br />
 10/11/2022 https://leetcode.com/problems/repeated-dna-sequences/ (Solved with fixed length sliding window technique using HashSet)
+
+10/12/2022 https://leetcode.com/problems/sliding-window-maximum/ (Looked for a hint, solved with sliding window + ArrayDeque, trick is to keep max element in the first position) <br />
+10/12/2022 https://leetcode.com/problems/find-all-anagrams-in-a-string/ (Solved with sliding window technique using int[] hashmap)
