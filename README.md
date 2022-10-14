@@ -149,4 +149,4 @@ To track personal advancement on problem solving in CS
 10/12/2022 https://leetcode.com/problems/find-all-anagrams-in-a-string/ (Solved with sliding window technique using int[] hashmap)
 
 10/13/2022 https://leetcode.com/problems/contains-duplicate-ii/ (Solved with sliding window technique using HashSet) <br />
-10/13/2022 https://leetcode.com/problems/contains-duplicate-iii/（Looked for a hint, then solved with sliding window technique using TreeSet, with ceiling()/floor())
+10/13/2022 https://leetcode.com/problems/contains-duplicate-iii/ (Looked for a hint, then solved with sliding window technique using TreeSet, with ceiling()/floor())
