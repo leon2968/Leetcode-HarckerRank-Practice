@@ -150,3 +150,6 @@ To track personal advancement on problem solving in CS
 
 10/13/2022 https://leetcode.com/problems/contains-duplicate-ii/ (Solved with sliding window technique using HashSet) <br />
 10/13/2022 https://leetcode.com/problems/contains-duplicate-iii/ (Looked for a hint, then solved with sliding window technique using TreeSet, with ceiling()/floor())
+
+10/14/2022 https://leetcode.com/problems/next-permutation/ (Solved by looking for a pattern, swap target elements than reverse the subarray) <br />
+10/14/2022 https://leetcode.com/problems/generate-parentheses/ (Solved with backtracking, using conditions to reduce invalid combinations, time complexity is complicated)
