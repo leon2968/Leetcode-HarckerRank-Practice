@@ -153,3 +153,6 @@ To track personal advancement on problem solving in CS
 
 10/14/2022 https://leetcode.com/problems/next-permutation/ (Solved by looking for a pattern, swap target elements than reverse the subarray) <br />
 10/14/2022 https://leetcode.com/problems/generate-parentheses/ (Solved with backtracking, using conditions to reduce invalid combinations, time complexity is complicated)
+
+10/16/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (Solved with dynamic programming with two pointers) <br />
+10/16/2022 https://leetcode.com/problems/majority-element/ (Looked for a hint, to solved with linear time and constant space, has to use Boyer-Moore algo with requirement count > n/2)
