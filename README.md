@@ -156,3 +156,6 @@ To track personal advancement on problem solving in CS
 
 10/16/2022 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (Solved with dynamic programming with two pointers) <br />
 10/16/2022 https://leetcode.com/problems/majority-element/ (Looked for a hint, to solved with linear time and constant space, has to use Boyer-Moore algo with requirement count > n/2)
+
+10/18/2022 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ (Solved with two-pass loop, can be done via one-pass through fast and slow pointers) <br />
+***10/18/2022 https://leetcode.com/problems/swap-nodes-in-pairs/ (Looked for a hint, solved with recursion fisrst, then tried iteration approach)
