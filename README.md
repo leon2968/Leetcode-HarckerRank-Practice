@@ -159,3 +159,14 @@ To track personal advancement on problem solving in CS
 
 10/18/2022 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ (Solved with two-pass loop, can be done via one-pass through fast and slow pointers) <br />
 ***10/18/2022 https://leetcode.com/problems/swap-nodes-in-pairs/ (Looked for a hint, solved with recursion fisrst, then tried iteration approach)
+
+10/20/2022 https://leetcode.com/problems/integer-to-roman/ (Solved with HashMap / int[] num -> int[] romans)
+
+10/21/2022 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Solved with two binary searches) <br/>
+10/21/2022 https://leetcode.com/problems/sqrtx/ (Solved with binary searches, there are other interesting mathematic approaches)
+
+10/22/2022 https://leetcode.com/problems/course-schedule/ (Looked for a hint, then solved with topological sort/BFS) <br/>
+10/22/2022 https://leetcode.com/problems/course-schedule-ii/ (Solved with topological sort/Kahn's algorithm) <br />
+10/22/2022 https://leetcode.com/problems/search-a-2d-matrix-ii/ (Solved with binary search, then used another approach which traverse the matrix from top-right)
+
+
