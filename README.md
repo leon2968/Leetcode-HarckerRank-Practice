@@ -169,4 +169,10 @@ To track personal advancement on problem solving in CS
 10/22/2022 https://leetcode.com/problems/course-schedule-ii/ (Solved with topological sort/Kahn's algorithm) <br />
 10/22/2022 https://leetcode.com/problems/search-a-2d-matrix-ii/ (Solved with binary search, then used another approach which traverse the matrix from top-right)
 
+***10/23/2022 https://leetcode.com/submissions/detail/828990252/ (Solved with double linked nodes + HashMap)
+
+10/24/2022 https://leetcode.com/problems/minimum-height-trees/ (Looked for a hint, then solved with topological sort to find centroids) <br/>
+10/24/2022 https://leetcode.com/problems/course-schedule-iii/ (Looked for a hint, then solved with max heap / priority queue) <br/>
+10/24/2022 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ (Solved with topological sort, then dfs+top-down DFS)
+
 
