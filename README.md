@@ -175,4 +175,15 @@ To track personal advancement on problem solving in CS
 10/24/2022 https://leetcode.com/problems/course-schedule-iii/ (Looked for a hint, then solved with max heap / priority queue) <br/>
 10/24/2022 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ (Solved with topological sort, then dfs+top-down DFS)
 
+10/26/2022 https://leetcode.com/problems/loud-and-rich/ (Solved with Topological BFS, then solved using DFS+memoization with hint) <br/>
+10/26/2022 https://leetcode.com/problems/linked-list-cycle/ (Solved with HashSet, then solved with fast and slow pointer) <br/>
+10/26/2022 https://leetcode.com/problems/intersection-of-two-linked-lists/ (Solved with HashSet, then solved with two pointers, A+B = B+A) <br/>
+10/26/2022 https://leetcode.com/problems/linked-list-cycle-ii/ (Looked for a hint, then solved with three pointers, fast, slow and entry) <br/>
+***10/26/2022 https://leetcode.com/problems/sort-list/ (Looked for a hint, then solved with merge sort) <br/>
+***10/26/2022 https://leetcode.com/problems/path-sum-iii/ (Solved with backtracking, can be optimized by either using DFS + HashMap) <br/>
+10/26/2022 https://leetcode.com/problems/rotting-oranges/ (Solved with BFS)
 
+10/27/2022 https://leetcode.com/problems/reverse-linked-list/ (Solved by exchange listNode positions, recursion is more straightforward while iteration is more efficient) <br/>
+10/27/2022 https://leetcode.com/problems/move-zeroes/ (Solved with two pointers) <br/>
+10/27/2022 https://leetcode.com/problems/longest-increasing-subsequence/ (Looked for a hint, solved with DP approach, then later optimized the solution using tailTable) <br/>
+**10/27/2022 https://leetcode.com/problems/daily-temperatures/ (Solved with stack with a hint, can be solved without additional space by solving it backwards)
