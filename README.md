@@ -187,3 +187,9 @@ To track personal advancement on problem solving in CS
 10/27/2022 https://leetcode.com/problems/move-zeroes/ (Solved with two pointers) <br/>
 10/27/2022 https://leetcode.com/problems/longest-increasing-subsequence/ (Looked for a hint, solved with DP approach, then later optimized the solution using tailTable) <br/>
 **10/27/2022 https://leetcode.com/problems/daily-temperatures/ (Solved with stack with a hint, can be solved without additional space by solving it backwards)
+
+10/30/2022 https://leetcode.com/problems/partition-labels/ (Solved with greedy algorithm using hashtable)
+
+10/31/2022 https://leetcode.com/problems/unique-paths-ii/ (Solved with dynamic programming, using extra condition checks) <br/>
+10/31/2022 https://leetcode.com/problems/unique-paths-iii/ (Solved with DPS+backtracking) <br/>
+***10/31/2022 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ （Solved with brute force approach, then looked into KMP algorithm using LPS[])
