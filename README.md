@@ -193,3 +193,8 @@ To track personal advancement on problem solving in CS
 10/31/2022 https://leetcode.com/problems/unique-paths-ii/ (Solved with dynamic programming, using extra condition checks) <br/>
 10/31/2022 https://leetcode.com/problems/unique-paths-iii/ (Solved with DPS+backtracking) <br/>
 ***10/31/2022 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ （Solved with brute force approach, then looked into KMP algorithm using LPS[])
+
+11/1/2022 https://leetcode.com/problems/repeated-substring-pattern/ (Solved with brute force then KMP, notice n-lps[n-1] gives the repeated substring length) <br/>
+11/1/2022 https://leetcode.com/problems/implement-queue-using-stacks/ (Solved using an input stack and output stack, transfer elements from input to output in peek/pop operations)<br/>
+11/1/2022 https://leetcode.com/problems/implement-stack-using-queues/ (Solved using two queues, transfer elements from q1 to q2 then add new element in push operations)<br/>
+11/1/2022 https://leetcode.com/problems/maximum-erasure-value/ (Solved with sliding window)
