@@ -198,3 +198,12 @@ To track personal advancement on problem solving in CS
 11/1/2022 https://leetcode.com/problems/implement-queue-using-stacks/ (Solved using an input stack and output stack, transfer elements from input to output in peek/pop operations)<br/>
 11/1/2022 https://leetcode.com/problems/implement-stack-using-queues/ (Solved using two queues, transfer elements from q1 to q2 then add new element in push operations)<br/>
 11/1/2022 https://leetcode.com/problems/maximum-erasure-value/ (Solved with sliding window)
+
+11/2/2022 https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/ (Solved using queue, can be used mathematical approach) <br/>
+11/2/2022 https://leetcode.com/problems/search-a-2d-matrix/description/ (Solved with two binary search) </br>
+11/2/2022 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/ (Solved with binary search)
+
+**11/3/2022 https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/ (Solved with divie and conquer, then used sliding windows with multiple 'limit') <br/>
+11/3/2022 https://leetcode.com/problems/remove-element/description/ (Solved with two pointers) <br/>
+
+11/3/2022 https://leetcode.com/problems/deepest-leaves-sum/description/ (Solved with BFS)
