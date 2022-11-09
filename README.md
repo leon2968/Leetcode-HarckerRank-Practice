@@ -213,4 +213,4 @@ To track personal advancement on problem solving in CS
 11/8/2022 https://leetcode.com/problems/print-zero-even-odd/ (Solved using synchronized approach) <br/>
 11/8/2022 https://leetcode.com/problems/4sum/ (Solved using HashMap, then solved with two pointers) <br/>
 11/8/2022 https://leetcode.com/problems/online-stock-span/ (Solved with monotonic stack) <br/>
-11/8/2022 https://leetcode.com/problems/remove-duplicate-letters/ (Solved with monotonic stack) <br/>
+***11/8/2022 https://leetcode.com/problems/remove-duplicate-letters/ (Solved with monotonic stack) <br/>
