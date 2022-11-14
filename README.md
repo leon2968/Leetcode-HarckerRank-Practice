@@ -214,3 +214,11 @@ To track personal advancement on problem solving in CS
 11/8/2022 https://leetcode.com/problems/4sum/ (Solved using HashMap, then solved with two pointers) <br/>
 11/8/2022 https://leetcode.com/problems/online-stock-span/ (Solved with monotonic stack) <br/>
 ***11/8/2022 https://leetcode.com/problems/remove-duplicate-letters/ (Solved with monotonic stack) <br/>
+
+11/10/2022 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ (Solved with stack> <br/>
+11/10/2022 https://leetcode.com/problems/shortest-palindrome (Solved with KMP) <br/>
+11/10/2022 https://leetcode.com/problems/lexicographical-numbers (Sovled with dfs) <br/>
+11/10/2022 https://leetcode.com/problems/implement-trie-prefix-tree (Solved with TriNode array) <br/>
+11/10/2022 https://leetcode.com/problems/remove-duplicates-from-sorted-array (Solved with two pointers) <br/>
+11/10/2022 https://leetcode.com/problems/valid-sudoku (Solved with mutiple for loop checks, can use String for one-pass) <br/>
+11/10/2022 https://leetcode.com/problems/same-tree (Solved with DFS search) 
