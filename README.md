@@ -227,3 +227,7 @@ To track personal advancement on problem solving in CS
 11/14/2022 https://leetcode.com/problems/surrounded-regions (Solved with DFS, then Union-find) <br/>
 11/14/2022 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree (Solved using recursion) <br/>
 11/14/2022 https://leetcode.com/problems/balance-a-binary-search-tree (Solved by convert binary tree to a sorted list)
+
+*11/15/2022 https://leetcode.com/problems/count-complete-tree-nodes (Solved by use DFS and balance BST properties) <br/>
+11/15/2022 https://leetcode.com/problems/merge-intervals (Solved by sorting the matrix first) <br/>
+***11/15/2022 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix (Solved by use minHeap, then tries binary search using range)
