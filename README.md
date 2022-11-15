@@ -222,3 +222,8 @@ To track personal advancement on problem solving in CS
 11/10/2022 https://leetcode.com/problems/remove-duplicates-from-sorted-array (Solved with two pointers) <br/>
 11/10/2022 https://leetcode.com/problems/valid-sudoku (Solved with mutiple for loop checks, can use String for one-pass) <br/>
 11/10/2022 https://leetcode.com/problems/same-tree (Solved with DFS search) 
+
+11/14/2022 https://leetcode.com/problems/most-stones-removed-with-same-row-or-column (Solved with DFS, then Union-find) <br/>
+11/14/2022 https://leetcode.com/problems/surrounded-regions (Solved with DFS, then Union-find) <br/>
+11/14/2022 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree (Solved using recursion) <br/>
+11/14/2022 https://leetcode.com/problems/balance-a-binary-search-tree (Solved by convert binary tree to a sorted list)
