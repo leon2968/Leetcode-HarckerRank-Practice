@@ -231,3 +231,6 @@ To track personal advancement on problem solving in CS
 *11/15/2022 https://leetcode.com/problems/count-complete-tree-nodes (Solved by use DFS and balance BST properties) <br/>
 11/15/2022 https://leetcode.com/problems/merge-intervals (Solved by sorting the matrix first) <br/>
 ***11/15/2022 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix (Solved by use minHeap, then tries binary search using range)
+
+12/05/2022 https://leetcode.com/problems/middle-of-the-linked-list (Solved by using slow and fast pointers) <br/>
+12/05/2022 https://leetcode.com/problems/stone-game (Solved by using dynamic programming)
