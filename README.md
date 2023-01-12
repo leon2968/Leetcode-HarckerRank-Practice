@@ -234,3 +234,19 @@ To track personal advancement on problem solving in CS
 
 12/05/2022 https://leetcode.com/problems/middle-of-the-linked-list (Solved by using slow and fast pointers) <br/>
 12/05/2022 https://leetcode.com/problems/stone-game (Solved by using dynamic programming)
+
+# 2023 Grind 169 questions
+https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
+
+01/11/2023 （week1 - day1)
+1. Lowest Common Ancestor of a Binary Search Tree
+2. Flood Fill
+3. Binary Search	
+4. Valid Anagram	
+5. Invert Binary Tree	
+6. Valid Palindrome
+7. Best Time to Buy and Sell Stock	
+8. Merge Two Sorted Lists
+9. Valid Parentheses	
+10. Two Sum	
+
