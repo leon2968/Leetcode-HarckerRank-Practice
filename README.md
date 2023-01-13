@@ -239,14 +239,26 @@ To track personal advancement on problem solving in CS
 https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 
 01/11/2023 （week1 - day1)
-1. Lowest Common Ancestor of a Binary Search Tree
-2. Flood Fill
-3. Binary Search	
-4. Valid Anagram	
-5. Invert Binary Tree	
-6. Valid Palindrome
-7. Best Time to Buy and Sell Stock	
-8. Merge Two Sorted Lists
-9. Valid Parentheses	
-10. Two Sum	
+1.	Two Sum
+2.	Valid Parentheses
+3.	Merge Two Sorted Lists
+4.	Best Time to Buy and Sell Stock
+5.	Valid Palindrome
+6.	Invert Binary Tree
+7.	Valid Anagram
+8.	Binary Search
+9.	Flood Fill
+10.	Lowest Common Ancestor of a Binary Search Tree
 
+01/12/2023 （week1 - day2)
+
+11.	Balanced Binary Tree
+12.	Linked List Cycle
+13.	Implement Queue using Stacks
+14.	First Bad Version
+15.	Ransom Note
+16.	Climbing Stairs
+17.	Longest Palindrome
+18.	Reverse Linked List
+19.	Majority Element
+20.	Add Binary
