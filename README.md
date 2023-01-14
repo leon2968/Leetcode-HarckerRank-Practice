@@ -259,7 +259,7 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 15.	Ransom Note
 16.	Climbing Stairs
 17.	Longest Palindrome
-18.	Reverse Linked List **
+18.	Reverse Linked List **<<
 19.	Majority Element
 20.	Add Binary
 
@@ -270,4 +270,4 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 23.	Maximum Depth of Binary Tree
 24.	Contains Duplicate
 25.	Roman to Integer
-26.	Backspace String Compare *
+26.	Backspace String Compare **<
