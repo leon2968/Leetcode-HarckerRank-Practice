@@ -262,3 +262,12 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 18.	Reverse Linked List
 19.	Majority Element
 20.	Add Binary
+
+01/13/2023 （week1 - day3)
+
+21.	Diameter of Binary Tree
+22.	Middle of the Linked List
+23.	Maximum Depth of Binary Tree
+24.	Contains Duplicate
+25.	Roman to Integer
+26.	Backspace String Compare
