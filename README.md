@@ -238,7 +238,7 @@ To track personal advancement on problem solving in CS
 # 2023 Grind 169 questions
 https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 
-01/11/2023 （week1 - day1)
+week1 - day1
 1.	Two Sum
 2.	Valid Parentheses
 3.	Merge Two Sorted Lists
@@ -250,7 +250,7 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 9.	Flood Fill
 10.	Lowest Common Ancestor of a Binary Search Tree
 
-01/12/2023 （week1 - day2)
+week1 - day2
 
 11.	Balanced Binary Tree
 12.	Linked List Cycle
@@ -263,7 +263,7 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 19.	Majority Element
 20.	Add Binary
 
-01/13/2023 （week1 - day3)
+week1 - day3
 
 21.	Diameter of Binary Tree
 22.	Middle of the Linked List
@@ -271,3 +271,7 @@ https://www.techinterviewhandbook.org/grind75?weeks=5&hours=30
 24.	Contains Duplicate
 25.	Roman to Integer
 26.	Backspace String Compare ★
+
+week1 - day4
+
+22. Counting Bits
