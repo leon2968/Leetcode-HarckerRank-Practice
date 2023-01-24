@@ -275,3 +275,9 @@ week1 - day3
 week1 - day4
 
 27. Counting Bits
+28. Same Tree
+29. Number of 1 Bits
+30. Longest Common Prefix
+31. Single Number
+32. Palindrome Linked List ★
+33. Move Zeroes
